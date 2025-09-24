@@ -103,7 +103,7 @@
         <mxCell id="gx6_36p2fhPoFDvD785E-22" value="Order&lt;div&gt;# Id&lt;br&gt;&lt;div&gt;* OrderDate&lt;/div&gt;&lt;/div&gt;&lt;div&gt;o EntryDate&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;" vertex="1" parent="1">
           <mxGeometry x="295" y="-550" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="gx6_36p2fhPoFDvD785E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=open;endFill=0;" edge="1" parent="1" source="gx6_36p2fhPoFDvD785E-23" target="gx6_36p2fhPoFDvD785E-24">
+        <mxCell id="gx6_36p2fhPoFDvD785E-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=diamondThin;endFill=0;" edge="1" parent="1" source="gx6_36p2fhPoFDvD785E-23" target="gx6_36p2fhPoFDvD785E-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gx6_36p2fhPoFDvD785E-26" value="ShippedFrom" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gx6_36p2fhPoFDvD785E-25">
