@@ -153,7 +153,7 @@
             <mxPoint x="-4" y="8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="gx6_36p2fhPoFDvD785E-37" value="0..m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gx6_36p2fhPoFDvD785E-33">
+        <mxCell id="gx6_36p2fhPoFDvD785E-37" value="1..m" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gx6_36p2fhPoFDvD785E-33">
           <mxGeometry x="-0.8137" relative="1" as="geometry">
             <mxPoint x="-4" y="-10" as="offset" />
           </mxGeometry>
