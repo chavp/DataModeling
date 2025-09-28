@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="4uIdvguv9pVf20NWQkQT">
-    <mxGraphModel dx="2978" dy="2638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4255" dy="4175" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -373,7 +373,40 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-79" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PartyRole&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;# Id&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;# PartyId&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;o&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FromDate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;o&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ThruDate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="380" y="-100" width="660" height="110" as="geometry" />
+          <mxGeometry x="360" y="-570" width="1040" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-81" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Prospect&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="420" y="-410" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-82" value="&lt;div&gt;ShareHolder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-410" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-84" value="&lt;div&gt;Customer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-410" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-85" value="&lt;div&gt;BillToCustomer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="590" y="-340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-86" value="&lt;div&gt;ShipToCustomer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="700" y="-340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-87" value="&lt;div&gt;EndUserCustomer&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="810" y="-340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-88" value="&lt;div&gt;PersonRole&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-410" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-89" value="&lt;div&gt;Employee&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-90" value="&lt;div&gt;Contractor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="-340" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-91" value="&lt;div&gt;FamilyMember&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="-340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-92" value="&lt;div&gt;Contact&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="-340" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
