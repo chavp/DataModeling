@@ -205,7 +205,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wt_we6Ho_m3m8SHgTjPF-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Party&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;* Id&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1740" y="-490" width="130" height="60" as="geometry" />
+          <mxGeometry x="1810" y="-890" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
