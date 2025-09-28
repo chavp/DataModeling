@@ -226,13 +226,19 @@
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-53" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-50">
           <mxGeometry x="-0.7471" y="1" relative="1" as="geometry">
-            <mxPoint x="-9" as="offset" />
+            <mxPoint x="-19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-54" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-50">
           <mxGeometry x="0.7126" y="1" relative="1" as="geometry">
             <mxPoint x="11" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-55" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PersonName&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;# PesonId&lt;/div&gt;&lt;/div&gt;&lt;div&gt;# CountryId&lt;/div&gt;&lt;div&gt;# FromDate&lt;/div&gt;&lt;div&gt;o ThruDate&lt;/div&gt;&lt;div&gt;* Name&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="950" y="550" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-56" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PersonNameType&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;# Id&lt;/div&gt;&lt;/div&gt;&lt;div&gt;* Description&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1180" y="550" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
