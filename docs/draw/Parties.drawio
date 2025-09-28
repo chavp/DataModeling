@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="4uIdvguv9pVf20NWQkQT">
-    <mxGraphModel dx="1779" dy="1118" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1489" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -126,6 +126,12 @@
           <mxGeometry x="0.6545" y="1" relative="1" as="geometry">
             <mxPoint x="19" y="-14" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-33" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;OrganizationClassification&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="210" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-34" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PersonClassification&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="210" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
