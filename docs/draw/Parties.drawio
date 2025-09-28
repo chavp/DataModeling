@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b6r_saqUjiUizNk9s3t6-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Party&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;# Id&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" parent="1" vertex="1">
-          <mxGeometry x="610" y="90" width="130" height="70" as="geometry" />
+          <mxGeometry x="630" y="90" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-1" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Oranization&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;* Name&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="480" y="210" width="130" height="70" as="geometry" />
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-3" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Person&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;o BirthDate&lt;/div&gt;&lt;/div&gt;&lt;div&gt;o MotherMaidenName&lt;/div&gt;&lt;div&gt;o SocialSecurityNo&lt;/div&gt;&lt;div&gt;o TotalYearsWorkExperience&lt;/div&gt;&lt;div&gt;o Comment&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="750" y="210" width="180" height="110" as="geometry" />
+          <mxGeometry x="810" y="210" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-4" value="" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;" edge="1" parent="1" source="Ks3XvHl5-VVqE8Jf7tJ_-3" target="b6r_saqUjiUizNk9s3t6-1">
           <mxGeometry width="160" relative="1" as="geometry">
@@ -49,7 +49,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-5" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GenderType&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;# Id&lt;/div&gt;&lt;/div&gt;&lt;div&gt;* Description&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="230" width="130" height="70" as="geometry" />
+          <mxGeometry x="1100" y="230" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-11" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;LegelOrganization&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;o FederalTaxIdNum&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="390" y="350" width="130" height="70" as="geometry" />
