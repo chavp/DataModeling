@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="4uIdvguv9pVf20NWQkQT">
-    <mxGraphModel dx="1451" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1361" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,7 +231,7 @@
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-54" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-50">
           <mxGeometry x="0.7126" y="1" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
+            <mxPoint x="11" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-55" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PersonName&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;# PartyId&lt;/div&gt;&lt;/div&gt;&lt;div&gt;# PersonNameTypeId&lt;/div&gt;&lt;div&gt;# FromDate&lt;/div&gt;&lt;div&gt;o ThruDate&lt;/div&gt;&lt;div&gt;* Name&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
@@ -318,12 +318,12 @@
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-69" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-68">
           <mxGeometry x="-0.7471" y="1" relative="1" as="geometry">
-            <mxPoint x="-19" y="9" as="offset" />
+            <mxPoint x="-19" y="23" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-70" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-68">
           <mxGeometry x="0.7126" y="1" relative="1" as="geometry">
-            <mxPoint x="11" y="-13" as="offset" />
+            <mxPoint x="11" y="-29" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
