@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.5">
   <diagram name="Page-1" id="4uIdvguv9pVf20NWQkQT">
-    <mxGraphModel dx="2128" dy="2638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1779" dy="2218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -83,7 +83,7 @@
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-24" value="0..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-23">
           <mxGeometry x="-0.4641" relative="1" as="geometry">
-            <mxPoint x="-162" y="-15" as="offset" />
+            <mxPoint x="-90" y="-15" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-25" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-23">
@@ -93,7 +93,7 @@
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-26" value="For" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-23">
           <mxGeometry x="-0.6442" y="-1" relative="1" as="geometry">
-            <mxPoint x="-101" y="14" as="offset" />
+            <mxPoint x="-50" y="14" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-27" value="ClassifiedInfo" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Ks3XvHl5-VVqE8Jf7tJ_-23">
@@ -372,7 +372,7 @@
             <mxPoint x="11" y="-46" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-79" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Person&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;o BirthDate&lt;/div&gt;&lt;/div&gt;&lt;div&gt;o MotherMaidenName&lt;/div&gt;&lt;div&gt;o SocialSecurityNo&lt;/div&gt;&lt;div&gt;o TotalYearsWorkExperience&lt;/div&gt;&lt;div&gt;o Comment&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
+        <mxCell id="Ks3XvHl5-VVqE8Jf7tJ_-79" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;PartyRole&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;# Id&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;# PartyId&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;o&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;FromDate&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;o&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;ThruDate&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;align=left;spacingTop=0;spacingLeft=5;arcSize=8;" vertex="1" parent="1">
           <mxGeometry x="630" y="-260" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
