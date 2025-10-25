@@ -4,13 +4,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_lyQtnQ2qPUpcMT8xCgQ-4">
+        <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_lyQtnQ2qPUpcMT8xCgQ-4" target="_lyQtnQ2qPUpcMT8xCgQ-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="75" y="179.99999999999994" as="sourcePoint" />
             <mxPoint x="230" y="179.99999999999994" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="110" y="180" />
-              <mxPoint x="110" y="180" />
+              <mxPoint x="33" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -22,8 +21,7 @@
         <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_lyQtnQ2qPUpcMT8xCgQ-4" target="_lyQtnQ2qPUpcMT8xCgQ-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="200" />
-              <mxPoint x="150" y="320" />
+              <mxPoint x="33" y="320" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -36,7 +34,7 @@
           <mxGeometry y="164" width="65" height="52" as="geometry" />
         </mxCell>
         <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-6" value="Mongodb" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="230" y="150" width="60" height="80" as="geometry" />
+          <mxGeometry x="220" y="84" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-8" value="Next, React" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-140" y="150" width="60" height="40" as="geometry" />
