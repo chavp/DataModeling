@@ -48,8 +48,8 @@
             <mxPoint x="110" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-14" value="Blogs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="-20" width="120" height="60" as="geometry" />
+        <mxCell id="_lyQtnQ2qPUpcMT8xCgQ-14" value="Posts" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
