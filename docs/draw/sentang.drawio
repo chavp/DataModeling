@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="omfQ3YbYqrBtzE9a4jKX">
-    <mxGraphModel dx="1947" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1622" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="YCi2yjtr429WYg652GcZ-3" value="object DB&lt;div&gt;B2&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-110" y="50" width="80" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-4" value="database&lt;div&gt;mongodb&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="YCi2yjtr429WYg652GcZ-4" value="sentangDB&lt;br&gt;&lt;div&gt;mongodb&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-110" y="250" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-1" target="YCi2yjtr429WYg652GcZ-3">
@@ -57,7 +57,7 @@
         <mxCell id="YCi2yjtr429WYg652GcZ-19" value="vercel" style="swimlane;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="-550" y="600" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/logo-vercel-632.svg" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
+        <mxCell id="YCi2yjtr429WYg652GcZ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/logo-vercel-632.svg;fontColor=default;imageBorder=none;imageBackground=light-dark(#000000,#FCFCFC);" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
           <mxGeometry x="150" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-21" value="sentang&lt;div&gt;container: Web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
@@ -71,6 +71,11 @@
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-21" target="YCi2yjtr429WYg652GcZ-23">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-25" value="apiwa021" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-24">
+          <mxGeometry x="-0.2499" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
