@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="omfQ3YbYqrBtzE9a4jKX">
-    <mxGraphModel dx="2357" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1947" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -53,6 +53,24 @@
           <mxGeometry x="-0.244" y="-2" relative="1" as="geometry">
             <mxPoint x="-256" y="-12" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-19" value="vercel" style="swimlane;startSize=50;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="600" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/logo-vercel-632.svg" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
+          <mxGeometry x="150" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-21" value="sentang&lt;div&gt;container: Web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
+          <mxGeometry x="30" y="80" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-22" value="mongodb.net" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="-550" y="880" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-23" value="database&lt;div&gt;mongodb&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="YCi2yjtr429WYg652GcZ-22">
+          <mxGeometry x="60" y="60" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-21" target="YCi2yjtr429WYg652GcZ-23">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
