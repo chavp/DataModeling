@@ -128,7 +128,7 @@
           <mxGeometry x="-860" y="650" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-44" value="https://github.com/" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="60" y="630" width="330" height="240" as="geometry" />
+          <mxGeometry x="70" y="640" width="300" height="220" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-41" value="" style="group" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-44">
           <mxGeometry x="100" y="70" width="150" height="120" as="geometry" />
@@ -142,7 +142,7 @@
         <mxCell id="YCi2yjtr429WYg652GcZ-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="YCi2yjtr429WYg652GcZ-43">
           <mxGeometry x="90" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-46" value="push main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-45" target="YCi2yjtr429WYg652GcZ-39">
+        <mxCell id="YCi2yjtr429WYg652GcZ-46" value="push main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-45" target="YCi2yjtr429WYg652GcZ-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-45" target="YCi2yjtr429WYg652GcZ-19">
@@ -158,7 +158,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-45" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="740" width="30" height="60" as="geometry" />
+          <mxGeometry x="570" y="720" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
