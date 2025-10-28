@@ -192,8 +192,14 @@
         <mxCell id="bePCA9pIqXVYIhmrfBXp-1" value="Posts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Qv0qsXtCSP2ERySROLrI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;" edge="1" parent="1" source="bePCA9pIqXVYIhmrfBXp-2" target="Qv0qsXtCSP2ERySROLrI-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="bePCA9pIqXVYIhmrfBXp-2" value="Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qv0qsXtCSP2ERySROLrI-2" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
