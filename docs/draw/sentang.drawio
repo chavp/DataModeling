@@ -143,7 +143,7 @@
           <mxGeometry x="90" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-51" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="YCi2yjtr429WYg652GcZ-44">
-          <mxGeometry x="247.6" width="52.4" height="50" as="geometry" />
+          <mxGeometry x="260" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-46" value="push main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-45" target="YCi2yjtr429WYg652GcZ-44">
           <mxGeometry relative="1" as="geometry" />
