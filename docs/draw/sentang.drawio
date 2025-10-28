@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="2">
   <diagram name="Architecture" id="omfQ3YbYqrBtzE9a4jKX">
-    <mxGraphModel dx="2568" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,7 +68,7 @@
           <mxGeometry x="-560" y="580" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/logo-vercel-632.svg;fontColor=default;imageBorder=none;imageBackground=light-dark(#000000,#FCFCFC);" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
-          <mxGeometry x="150" width="50" height="50" as="geometry" />
+          <mxGeometry x="160" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-21" value="sentang&lt;div&gt;container: Web&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
           <mxGeometry x="30" y="80" width="140" height="70" as="geometry" />
