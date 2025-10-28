@@ -117,11 +117,14 @@
         <mxCell id="YCi2yjtr429WYg652GcZ-41" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="80" y="700" width="150" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-39" value="New-HikeComu" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="YCi2yjtr429WYg652GcZ-41">
-          <mxGeometry y="20" width="120" height="100" as="geometry" />
+        <mxCell id="YCi2yjtr429WYg652GcZ-43" value="" style="group" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-41">
+          <mxGeometry y="10" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-40" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.webicons.github;gradientColor=#DFDEDE" vertex="1" parent="YCi2yjtr429WYg652GcZ-41">
-          <mxGeometry x="90" width="60" height="60" as="geometry" />
+        <mxCell id="YCi2yjtr429WYg652GcZ-39" value="New-HikeComu" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="YCi2yjtr429WYg652GcZ-43">
+          <mxGeometry y="10" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" vertex="1" parent="YCi2yjtr429WYg652GcZ-43">
+          <mxGeometry x="90" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
