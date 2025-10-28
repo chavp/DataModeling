@@ -310,10 +310,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-2" value="Sentang" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="260" width="110" height="110" as="geometry" />
+          <mxGeometry x="310" y="240" width="125" height="125" as="geometry" />
+        </mxCell>
+        <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-3" target="hxhtGAsfsoEsp8hlJ7Xo-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-3" value="Comunity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-4" target="hxhtGAsfsoEsp8hlJ7Xo-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-4" value="Tours" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="480" y="160" width="80" height="80" as="geometry" />
@@ -323,6 +329,12 @@
         </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-6" value="Buddies" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-11" value="Posts" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="100" y="50" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-13" value="Trips" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
