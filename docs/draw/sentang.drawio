@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="3">
   <diagram name="Architecture" id="omfQ3YbYqrBtzE9a4jKX">
-    <mxGraphModel dx="2332" dy="1419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2606" dy="1558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,19 +29,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-7" value="[guest]" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="YCi2yjtr429WYg652GcZ-7" value="guest" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-610" y="-30" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-8" target="YCi2yjtr429WYg652GcZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-8" value="member" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="YCi2yjtr429WYg652GcZ-8" value="[member]" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-610" y="75" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-9" target="YCi2yjtr429WYg652GcZ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YCi2yjtr429WYg652GcZ-9" value="admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="YCi2yjtr429WYg652GcZ-9" value="[admin]" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-610" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
