@@ -51,6 +51,19 @@
             <mxPoint x="-301" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-19" target="YCi2yjtr429WYg652GcZ-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="670" />
+              <mxPoint x="-150" y="670" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-50" value="get" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-47">
+          <mxGeometry x="-0.0071" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-19" value="vercel" style="swimlane;startSize=50;" vertex="1" parent="1">
           <mxGeometry x="-560" y="580" width="200" height="200" as="geometry" />
         </mxCell>
@@ -115,7 +128,7 @@
           <mxGeometry x="-860" y="650" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-44" value="https://github.com/" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="60" y="610" width="330" height="240" as="geometry" />
+          <mxGeometry x="60" y="630" width="330" height="240" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-41" value="" style="group" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-44">
           <mxGeometry x="100" y="70" width="150" height="120" as="geometry" />
@@ -132,8 +145,20 @@
         <mxCell id="YCi2yjtr429WYg652GcZ-46" value="push main" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-45" target="YCi2yjtr429WYg652GcZ-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-45" target="YCi2yjtr429WYg652GcZ-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="585" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-49" value="deploy" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-48">
+          <mxGeometry x="0.1306" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-45" value="Developer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="570" y="720" width="30" height="60" as="geometry" />
+          <mxGeometry x="570" y="740" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
