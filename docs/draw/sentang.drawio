@@ -178,15 +178,15 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuJzOrIZ-NJ0eBajAzhL" name="Modeling">
-    <mxGraphModel dx="1892" dy="1627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qv0qsXtCSP2ERySROLrI-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmany;startFill=0;endArrow=ERone;endFill=0;" edge="1" parent="1" source="bePCA9pIqXVYIhmrfBXp-1" target="bePCA9pIqXVYIhmrfBXp-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="60" />
-              <mxPoint x="320" y="60" />
+              <mxPoint x="320" y="310" />
+              <mxPoint x="320" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -197,10 +197,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bePCA9pIqXVYIhmrfBXp-2" value="Users" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-100" y="-30" width="690" height="60" as="geometry" />
+          <mxGeometry x="-110" y="340" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-2" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-30" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-4" value="Comments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="130" width="120" height="60" as="geometry" />
@@ -225,8 +225,8 @@
             <mxPoint x="700" y="50" as="sourcePoint" />
             <mxPoint x="570" y="50" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="60" />
-              <mxPoint x="510" y="60" />
+              <mxPoint x="510" y="310" />
+              <mxPoint x="510" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -235,8 +235,8 @@
             <mxPoint x="250" y="170" as="sourcePoint" />
             <mxPoint x="250" y="70" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="160" y="60" />
-              <mxPoint x="160" y="60" />
+              <mxPoint x="160" y="300" />
+              <mxPoint x="160" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -255,8 +255,8 @@
             <mxPoint x="160" y="340" as="sourcePoint" />
             <mxPoint x="160" y="240" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-10" y="60" />
-              <mxPoint x="-10" y="60" />
+              <mxPoint x="-10" y="310" />
+              <mxPoint x="-10" y="310" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -264,7 +264,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-15" value="contains Feature keys for permission" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-40" width="170" height="80" as="geometry" />
+          <mxGeometry x="920" y="340" width="170" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
