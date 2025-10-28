@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8">
   <diagram name="Page-1" id="omfQ3YbYqrBtzE9a4jKX">
-    <mxGraphModel dx="1892" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2076" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,8 +42,8 @@
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-670" y="520" as="sourcePoint" />
-            <mxPoint x="140" y="520" as="targetPoint" />
+            <mxPoint x="-670" y="549" as="sourcePoint" />
+            <mxPoint x="140" y="549" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-17" value="Deployment: DEV" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-13">
@@ -52,7 +52,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-19" value="vercel" style="swimlane;startSize=50;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="600" width="200" height="200" as="geometry" />
+          <mxGeometry x="-560" y="580" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-20" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=default;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Ionicons_Fill_Vol_2-2187/logo-vercel-632.svg;fontColor=default;imageBorder=none;imageBackground=light-dark(#000000,#FCFCFC);" vertex="1" parent="YCi2yjtr429WYg652GcZ-19">
           <mxGeometry x="150" width="50" height="50" as="geometry" />
@@ -61,7 +61,7 @@
           <mxGeometry x="30" y="80" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-22" value="mongodb.net" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="880" width="200" height="200" as="geometry" />
+          <mxGeometry x="-560" y="860" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-28" value="" style="group" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-22">
           <mxGeometry x="60" y="70" width="100" height="90" as="geometry" />
@@ -90,13 +90,18 @@
           <mxGeometry x="60" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-32" value="backblazeb2.com" style="swimlane;startSize=40;" vertex="1" parent="1">
-          <mxGeometry x="-320" y="880" width="200" height="200" as="geometry" />
+          <mxGeometry x="-330" y="860" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-33" value="object DB&lt;div&gt;B2&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="YCi2yjtr429WYg652GcZ-32">
           <mxGeometry x="60" y="70" width="80" height="90" as="geometry" />
         </mxCell>
         <mxCell id="YCi2yjtr429WYg652GcZ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YCi2yjtr429WYg652GcZ-21" target="YCi2yjtr429WYg652GcZ-33">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YCi2yjtr429WYg652GcZ-35" value="s3.us-east-005" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="YCi2yjtr429WYg652GcZ-34">
+          <mxGeometry x="0.3043" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
