@@ -200,7 +200,7 @@
           <mxGeometry x="-100" y="-30" width="690" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-2" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="-150" width="120" height="60" as="geometry" />
+          <mxGeometry x="670" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-4" value="Comments" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="130" width="120" height="60" as="geometry" />
