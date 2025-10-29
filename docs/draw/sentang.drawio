@@ -182,7 +182,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuJzOrIZ-NJ0eBajAzhL" name="Modeling">
-    <mxGraphModel dx="2076" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1892" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -197,7 +197,7 @@
         <mxCell id="bePCA9pIqXVYIhmrfBXp-1" value="Posts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bePCA9pIqXVYIhmrfBXp-2" value="Users [Admin, Member, Staff, Organizer]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bePCA9pIqXVYIhmrfBXp-2" value="Users [Admin, Member]" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-160" y="340" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-2" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -332,6 +332,28 @@
           <mxGeometry x="0.1059" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ggWpfy3yBK4yOkk__dgY-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;" edge="1" parent="1" source="ggWpfy3yBK4yOkk__dgY-11" target="bePCA9pIqXVYIhmrfBXp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-100" y="410" />
+              <mxPoint x="-100" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggWpfy3yBK4yOkk__dgY-11" value="Staffs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ggWpfy3yBK4yOkk__dgY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERone;endFill=0;" edge="1" parent="1" source="ggWpfy3yBK4yOkk__dgY-12" target="bePCA9pIqXVYIhmrfBXp-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="420" />
+              <mxPoint x="35" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ggWpfy3yBK4yOkk__dgY-12" value="Organizers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
