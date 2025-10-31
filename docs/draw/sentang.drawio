@@ -241,7 +241,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TuJzOrIZ-NJ0eBajAzhL" name="Data Models">
-    <mxGraphModel dx="2131" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2515" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,7 +260,7 @@
           <mxGeometry x="-250" y="310" width="830" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-2" value="Roles" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="430" y="440" width="150" height="60" as="geometry" />
+          <mxGeometry x="430" y="430" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-4" value="Comments" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="200" width="120" height="60" as="geometry" />
@@ -324,7 +324,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-15" value="contains Feature keys for permission&lt;div&gt;only Admin use all features&lt;/div&gt;&lt;div&gt;example:&lt;br&gt;&lt;div&gt;community:manage&lt;/div&gt;&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" parent="1" vertex="1">
-          <mxGeometry x="650" y="385" width="170" height="165" as="geometry" />
+          <mxGeometry x="650" y="377.5" width="170" height="165" as="geometry" />
         </mxCell>
         <mxCell id="Qv0qsXtCSP2ERySROLrI-17" value="Tours" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-120" y="90" width="350" height="60" as="geometry" />
@@ -350,7 +350,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ggWpfy3yBK4yOkk__dgY-1" value="Features" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="570" width="340" height="60" as="geometry" />
+          <mxGeometry x="240" y="560" width="340" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ggWpfy3yBK4yOkk__dgY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" parent="1" source="Qv0qsXtCSP2ERySROLrI-2" target="bePCA9pIqXVYIhmrfBXp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -362,13 +362,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ggWpfy3yBK4yOkk__dgY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" parent="1" source="ggWpfy3yBK4yOkk__dgY-1" target="Qv0qsXtCSP2ERySROLrI-2" edge="1">
+        <mxCell id="ggWpfy3yBK4yOkk__dgY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="350" y="510" as="sourcePoint" />
-            <mxPoint x="350" y="430" as="targetPoint" />
+            <mxPoint x="504.5" y="560" as="sourcePoint" />
+            <mxPoint x="504.5" y="490" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="510" y="560" />
-              <mxPoint x="510" y="560" />
+              <mxPoint x="584.5" y="560" />
+              <mxPoint x="584.5" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -401,7 +401,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ggWpfy3yBK4yOkk__dgY-11" value="Staffs" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-160" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-160" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ggWpfy3yBK4yOkk__dgY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERzeroToOne;endFill=0;" parent="1" source="ggWpfy3yBK4yOkk__dgY-12" target="bePCA9pIqXVYIhmrfBXp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -412,7 +412,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ggWpfy3yBK4yOkk__dgY-12" value="Organizers" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="440" width="120" height="60" as="geometry" />
+          <mxGeometry x="-25" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ggWpfy3yBK4yOkk__dgY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=ERmany;endFill=0;startArrow=ERmany;startFill=0;" parent="1" source="ggWpfy3yBK4yOkk__dgY-18" target="bePCA9pIqXVYIhmrfBXp-2" edge="1">
           <mxGeometry relative="1" as="geometry">
