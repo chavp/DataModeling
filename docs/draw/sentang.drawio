@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="3">
   <diagram id="yq1NLuKMUjp3bDI3UobB" name="Products">
-    <mxGraphModel dx="3455" dy="2655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2339" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -34,8 +34,11 @@
         <mxCell id="oC5IobYJSODiGT0114u1-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-2" target="oC5IobYJSODiGT0114u1-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="oC5IobYJSODiGT0114u1-48" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-2" target="oC5IobYJSODiGT0114u1-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-2" value="Sentang.co" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="400" y="190" width="125" height="125" as="geometry" />
+          <mxGeometry x="440" y="190" width="125" height="125" as="geometry" />
         </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-3" target="hxhtGAsfsoEsp8hlJ7Xo-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -128,22 +131,22 @@
           <mxGeometry x="100" y="350" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-17" value="Trips" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-70" y="320" width="80" height="80" as="geometry" />
+          <mxGeometry x="-80" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-18" value="Logbooks" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-50" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="-90" y="380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-19" value="Packing Checklist" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="510" width="80" height="80" as="geometry" />
+          <mxGeometry x="-20" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-23" target="oC5IobYJSODiGT0114u1-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-23" value="Shops" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="250" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="360" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-24" value="Gears" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="170" y="580" width="80" height="80" as="geometry" />
+          <mxGeometry x="260" y="610" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-26" target="oC5IobYJSODiGT0114u1-29">
           <mxGeometry relative="1" as="geometry" />
@@ -167,7 +170,7 @@
           <mxGeometry x="950" y="250" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-35" value="Services" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="400" y="480" width="80" height="80" as="geometry" />
+          <mxGeometry x="480" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-2" target="oC5IobYJSODiGT0114u1-35">
           <mxGeometry relative="1" as="geometry">
@@ -188,7 +191,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-37" value="Securities" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="590" y="450" width="80" height="80" as="geometry" />
+          <mxGeometry x="640" y="430" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-39" value="Emergencies" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="510" y="640" width="80" height="80" as="geometry" />
@@ -201,6 +204,15 @@
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-42" value="Insurances" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="815" y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oC5IobYJSODiGT0114u1-50" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-47" target="oC5IobYJSODiGT0114u1-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oC5IobYJSODiGT0114u1-47" value="Guilds" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="410" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="oC5IobYJSODiGT0114u1-49" value="Common hilking guild" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="540" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
