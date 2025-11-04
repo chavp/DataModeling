@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36" version="28.2.8" pages="3">
   <diagram id="yq1NLuKMUjp3bDI3UobB" name="Products">
-    <mxGraphModel dx="2531" dy="1975" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2790" dy="2109" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,7 +55,7 @@
         <mxCell id="oC5IobYJSODiGT0114u1-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-4" target="oC5IobYJSODiGT0114u1-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-4" value="Tours" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+        <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-4" value="Tours" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
           <mxGeometry x="432.5" y="-30" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="hxhtGAsfsoEsp8hlJ7Xo-18" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="hxhtGAsfsoEsp8hlJ7Xo-5" target="hxhtGAsfsoEsp8hlJ7Xo-17" edge="1">
@@ -128,25 +128,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-15" value="Facilities" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="100" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="40" y="342.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-17" value="Trips" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="-80" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="-190" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-18" value="Logbooks" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-90" y="380" width="80" height="80" as="geometry" />
+          <mxGeometry x="-200" y="342.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-19" value="Packing Checklist" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="-20" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="-160" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-51" target="oC5IobYJSODiGT0114u1-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-23" value="Shops" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
-          <mxGeometry x="390" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="400" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-24" value="Gears" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="140" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="100" y="710" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-31" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-26" target="oC5IobYJSODiGT0114u1-29">
           <mxGeometry relative="1" as="geometry" />
@@ -170,7 +170,7 @@
           <mxGeometry x="970" y="212.5" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-35" value="Services" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="410" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="432.5" y="740" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-23" target="oC5IobYJSODiGT0114u1-35">
           <mxGeometry relative="1" as="geometry">
@@ -209,13 +209,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-47" value="Guidelines" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="240" y="420" width="80" height="80" as="geometry" />
+          <mxGeometry x="110" y="480" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-49" value="Common hilking guideline" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="110" y="540" width="80" height="80" as="geometry" />
+          <mxGeometry x="-120" y="620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-51" value="Products" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="260" y="580" width="80" height="80" as="geometry" />
+          <mxGeometry x="240" y="620" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="oC5IobYJSODiGT0114u1-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="oC5IobYJSODiGT0114u1-23" target="oC5IobYJSODiGT0114u1-51">
           <mxGeometry relative="1" as="geometry">
